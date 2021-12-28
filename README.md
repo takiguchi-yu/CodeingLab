@@ -1,2 +1,2 @@
-# CodeingLab
+# CodingLab
 https://www.codinglabweb.com/
